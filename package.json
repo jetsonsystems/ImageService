@@ -1,7 +1,7 @@
 {
   "name": "ImageService",
   "description": "Service Facade that provides Image Storage and Processing services",
-  "version": "0.0.22",
+  "version": "0.1.0",
   "author": "Philippe Paravicini <pparavicini@jetsonsys.com>",
   "repository": {
     "type": "git",
@@ -27,6 +27,7 @@
     ,"step"       : "~0.0.5"
     ,"underscore" : "~1.4.3"
     ,"underscore.string" : "~2.3.1"
+    ,"MediaManagerStorage"       : "https://github.com/jetsonsystems/MediaManagerStorage/tarball/master"
    },
    "devDependencies": {
      "chai"      : "~1.4.2"
