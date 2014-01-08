@@ -1,7 +1,7 @@
 {
   "name": "ImageService",
   "description": "Service Facade that provides Image Storage and Processing services",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Philippe Paravicini <pparavicini@jetsonsys.com>",
   "repository": {
     "type": "git",
